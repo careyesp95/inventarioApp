@@ -1,5 +1,11 @@
 # Project - Inventario
+- para ejecutar el servidor(api) debe seguir los siguientes pasos:
+- 1. Instalar las dependencias -- npm install 
+- 2. Ejecutar el servidor --- npm start  
 
+- para ejecutar el cliente(client) debe seguir los siguientes pasos:
+- 1. Instalar las dependencias -- npm install 
+- 2. Ejecutar la app --- npm start  
 
 ## Objetivos del Proyecto
 
@@ -14,7 +20,7 @@ El boilerplate cuenta con dos carpetas: `api` y `client`. En estas carpetas esta
 - [ ] NodeJs
 - [ ] ORM: Sequelize
 - [ ] DB: PostgreSQL
-- [ ] Angular
+- [ ] Angular---
 
 ## Comenzando
 
